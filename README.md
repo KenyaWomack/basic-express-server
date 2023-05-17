@@ -39,4 +39,4 @@ To run tests, after running `npm i`, run the command `npm test`
 
 #### UML
 
-![UML image](UMLlab03.png)
+![UML image](UMLlab02.png)
